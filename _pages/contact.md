@@ -3,9 +3,9 @@ layout: page
 title: Contact
 ---
 
-- Principal Consultant: Amado Hidalgo
-- Email: info@madsec.com
-- Mobile: +353-868030209
-- Twitter: @amadohs
+- Principal Researcher: Ricky May
+- Email: ricky@pensec.com
+- Mobile: +1 555-555-5555
+- Twitter: @rickybmay
 
 
